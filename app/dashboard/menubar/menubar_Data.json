@@ -1,0 +1,41 @@
+{
+    "items": [
+      {
+        "key": "home",
+        "label": "Home",
+        "children": [
+          {
+            "key": "Module1",
+            "label": "Module 1",
+            "children": [
+              {
+                "key": "SubModule1",
+                "label": "Sub Module 1",
+                "children": [
+                  {
+                    "key": "FormGroup1",
+                    "label": "Form Group 1",
+                    "children": [
+                      { "key": "Form1", "label": "Form 1" },
+                      { "key": "Form2", "label": "Form 2" },
+                      { "key": "Form3", "label": "Form 3" },
+                      { "key": "Form4", "label": "Form 4" },
+                      { "key": "Form5", "label": "Form 5" }
+                    ]
+                  },
+                  { "key": "2", "label": "Form Group 2" },
+                  { "key": "3", "label": "Form Group 3" },
+                  { "key": "4", "label": "Form Group 4" },
+                  { "key": "5", "label": "Form Group 5" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      }
+    ]
+  }
+  
